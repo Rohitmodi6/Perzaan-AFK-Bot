@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Rohitmodi.aternos.me:25775",
+    "port": 25775,
     "version": "1.21.1"
   },
   "position": {
